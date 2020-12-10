@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 92c89dc894262ae43b7b5d34dfc1d539, type: 3}
+  m_Name: Chaos Attack
+  m_EditorClassIdentifier: 
+  Description: MAY THE EMPORER LOOK KINDLY UPON US THIS DAY FOR WE ARE NO MATCH AGAINST
+    THE FORCES OF CHAOS
+  image: {fileID: 21300000, guid: d70fd27cd457819469deb0ae042dbe14, type: 3}
+  savingThrow: 9
+  geltLoss: 0
+  fuelLoss: 0
+  populationLoss: 85
+  oxygenLoss: 0
+  weaponryLoss: 3

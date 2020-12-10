@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 92c89dc894262ae43b7b5d34dfc1d539, type: 3}
+  m_Name: Tyranid Attack
+  m_EditorClassIdentifier: 
+  Description: THESE MONSTERS WILL SHOW NO MERCY, MAY LUCK BE ON OUR SIDE
+  image: {fileID: 21300000, guid: 007a993acc6a84c4d9f19b16f1d81ecd, type: 3}
+  savingThrow: 9
+  geltLoss: 0
+  fuelLoss: 800
+  populationLoss: 90
+  oxygenLoss: 0
+  weaponryLoss: 5
